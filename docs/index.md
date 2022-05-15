@@ -1,11 +1,22 @@
-# Hello VitePress
+# Vitepress documentation
 
-## Routing!
+# Table of content
 
-[docs/index.md](/) -> /
+[[toc]]  
 
-[docs/contact.md](/contact) -> /contact
+## Code
 
-[about/index.md](/about/) -> /about/
+This is 
 
-[about/our-story.md](/about/our-story) -> /about/our-story
+### Examples
+
+``` js
+console.log('Hello World')
+```
+
+## Tables
+
+| Headings      | Are           | Centered    |
+| ------------- |:-------------:| -----:      |
+| left align    | centered      | right align |
+| zebra striped | rows          | easy        |
